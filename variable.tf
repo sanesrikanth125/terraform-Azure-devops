@@ -2,15 +2,4 @@ variable "subscription-id" {}
 variable "client-id" {}
 variable "client-secret" {}
 variable "tenant-id" {}
-variable "azurerm-RG" {}
 variable "location" {}
-variable "Vnet" {}
-variable "ip-address" {}
-variable "subnet-ip" {}
-variable "Nic-Vnet" {}
-variable "Subnet-Vm" {}
-variable "private_ip_address" {}
-variable "vmSize" {}
-variable "host-name" {}
-variable "username" {}
-variable "password" {}
